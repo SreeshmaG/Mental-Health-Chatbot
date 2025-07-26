@@ -1,0 +1,47 @@
+# Generate 200 JSON-formatted teen-specific anxiety queries and responses in the requested structure.
+
+# First, define 200 anxiety-related queries and corresponding bot responses in the desired format.
+
+entries = [
+    {
+        "user": "I feel like everyone judges me on social media.",
+        "bot": "Social media can make us feel this way. Try: 1. Take breaks from apps. 2. Follow accounts that uplift you. 3. Remind yourself: real life isn’t just highlights."
+    },
+    {
+        "user": "I’m failing math and my parents are mad.",
+        "bot": "It’s tough, but you’re not alone. Ask your teacher for help, break study time into small chunks, and remind your parents you’re trying your best."
+    },
+    {
+        "user": "I can’t stop overthinking. How can I calm my mind?",
+        "bot": "Overthinking can be overwhelming. Try these techniques: 1. Practice mindfulness meditation. 2. Write down your thoughts in a journal. 3. Focus on the present moment and engage in a relaxing activity."
+    },
+    {
+        "user": "I feel lonely and isolated. What can I do?",
+        "bot": "Loneliness can be tough. Here are some suggestions: 1. Reach out to friends or family. 2. Join a community group or online forum. 3. Consider talking to a therapist for additional support."
+    },
+    {
+        "user": "I get really anxious when people talk about college.",
+        "bot": "College planning can be stressful. Try: 1. Focus on what you can control right now. 2. Talk to a school counselor for guidance. 3. Remember everyone’s path is different."
+    },
+    {
+        "user": "I constantly compare myself to others online.",
+        "bot": "Comparison can harm self-esteem. Try: 1. Limit your time on social media. 2. Follow positive, real-life role models. 3. Focus on your own progress, not others’ highlight reels."
+    },
+    {
+        "user": "I have trouble making decisions because I’m scared of messing up.",
+        "bot": "Decision anxiety is common. Try: 1. Break choices into smaller steps. 2. Accept that mistakes are part of growth. 3. Trust yourself—you’re learning."
+    },
+    {
+        "user": "I get really nervous before a big test, even when I study.",
+        "bot": "Test anxiety happens to many. Try: 1. Practice breathing exercises before the test. 2. Create a study routine. 3. Remind yourself that one test doesn’t define you."
+    },
+    {
+        "user": "I’m scared I’ll never be good enough.",
+        "bot": "That’s a heavy feeling, but remember: 1. You are enough as you are. 2. Progress matters more than perfection. 3. Talk to someone you trust about these thoughts."
+    },
+    {
+        "user": "I get anxious at school every morning.",
+        "bot": "Morning anxiety is tough. Try: 1. Build a calming morning routine. 2. Listen to music or stretch before school. 3. Talk to a counselor if it feels too heavy to carry alone."
+    }
+]
+
