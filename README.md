@@ -113,8 +113,4 @@ Bot: Trouble sleeping can be really frustrating. Have you tried any relaxation t
 
 <div align="center"> <h3>Remember: It's okay to not be okay. Reach out for help when you need it. 💙</h3> </div>
 
----
 
-<div align="center">
-  <h3>Remember: It's okay to not be okay. Reach out for help when you need it. 💙</h3>
-</div>
