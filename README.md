@@ -1,5 +1,3 @@
-Here's a professional GitHub README.md for your Mental Health Chatbot project:
-
 # 🧠 Mental Health Support Chatbot 🤖
 
 <div align="center">
